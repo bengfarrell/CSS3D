@@ -1,0 +1,10 @@
+{
+  "name": "Shampoo",
+  "version": "0.1.0",
+  "dependencies": {
+    "attrocity": "^0.5.4",
+    "babylonjs": "^4.0.3",
+    "lit-html": "^1.1.0",
+    "spectrum-css": "^1.1.5"
+  }
+}
